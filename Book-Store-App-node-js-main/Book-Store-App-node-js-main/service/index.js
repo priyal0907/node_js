@@ -1,0 +1,1 @@
+module.exports.bppkSchema = require("./bookStore.service")

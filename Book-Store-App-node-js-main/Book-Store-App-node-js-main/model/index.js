@@ -1,0 +1,1 @@
+module.exports.bookSchema = require("./bookStore.model")
